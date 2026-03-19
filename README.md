@@ -1,2 +1,2 @@
 # Formula-1-Social-Media-Analysis
-Analyzed the relationship between F1 race performance and social media engagement using Kaggle race data and scraped Reddit/X data. Performed sentiment analysis, correlation studies, and network analysis (Gephi) to uncover how performance, fan behavior, and online influence interact.
+Scraped and analyzed Reddit data using PRAW to study fan engagement around F1 drivers. Collected post metrics (upvotes, comments, scores) and performed sentiment and correlation analysis to examine how online discussion relates to race performance.
